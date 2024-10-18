@@ -17,4 +17,4 @@ git clone --depth 1 -b master  https://github.com/UnblockNeteaseMusic/luci-app-u
 git clone --depth 1 https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 
 # pciutils
-git clone --depth 1 https://github.com/pciutils/pciutils.git
+git clone --depth 1 https://github.com/pciutils/pciutils.git package/pciutils
